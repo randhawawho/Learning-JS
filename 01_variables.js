@@ -37,11 +37,16 @@ let detail = "28 January 2025 Bilal Habib Python Killer"
 // tail}`);
 
 
+// const number = [1,2,3,4]
+// number[100]=500
+// console.log(number);
 
 
+// console.log(typeof typeof 100);
 
+// const arr = [..."Bilal"]
+// console.log(arr);
 
-
-
-
-
+// console.log(parseInt("10+2"));
+// console.log(parseInt("7FM"));
+// console.log(parseInt("M7F"));
