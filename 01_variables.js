@@ -48,6 +48,7 @@ let detail = "28 January 2025 Bilal Habib Python Killer"
 
 
 // console.log(`this is the date and name and pythhon killer ${detail}`);
+// tail}`);
 
 
 
