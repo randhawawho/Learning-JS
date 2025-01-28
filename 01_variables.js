@@ -41,10 +41,13 @@ let newString = String("Bilal Habib")
 
 let detail = "28 January 2025 Bilal Habib Python Killer"
 
-console.log(detail.slice(0, 15));
-console.log(detail.slice(15, 26));
-console.log(detail.slice(26));
+// console.log(detail.slice(0, 15));
+// console.log(detail.slice(15, 26));
+// console.log(detail.slice(26));
 
+
+
+console.log(`this is the date and name and pythhon killer ${detail}`);
 
 
 
