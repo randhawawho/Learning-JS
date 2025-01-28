@@ -50,3 +50,8 @@ let detail = "28 January 2025 Bilal Habib Python Killer"
 // console.log(parseInt("10+2"));
 // console.log(parseInt("7FM"));
 // console.log(parseInt("M7F"));
+
+
+// console.log(isNaN("7FM"));
+// console.log(isNaN("F7M"));
+// console.log(isNaN(10));
