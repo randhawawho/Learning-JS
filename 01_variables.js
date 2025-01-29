@@ -110,6 +110,6 @@
 // console.log(myDate.toUTCString());
 
 
-let myCreatedDate = new Date(2023, 0, 2)
+// let myCreatedDate = new Date()
 
-console.log(myCreatedDate.toDateString());
+// console.log(myCreatedDate.toTimeString());
