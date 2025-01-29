@@ -77,3 +77,18 @@
 // // console.log(`this is a demo sentence ${a.trim().toUpperCase()} to check the trim`);
 
 
+// const city = "Istanbul"
+
+// console.log(city.toLocaleUpperCase( "TR" ));
+
+
+
+// const a = "My name is Bilal Randhawa"
+
+// console.log(a.replace("Bilal Randhawa", "Bilal "));
+
+
+let a = "my name is Bilal or Ahmed?"
+
+console.log(a.search("bilal"));
+
