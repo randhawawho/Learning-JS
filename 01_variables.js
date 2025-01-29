@@ -88,7 +88,28 @@
 // console.log(a.replace("Bilal Randhawa", "Bilal "));
 
 
-let a = "my name is Bilal or Ahmed?"
+// let a = "my name is Bilal or Ahmed?"
 
-console.log(a.search("bilal"));
+// console.log(a.search("bilal"));
 
+
+
+// const str1 = "this is a test string"
+// let index = 2
+// console.log(str1.indexOf("s"));
+
+
+
+// let myDate = new Date()
+// console.log(myDate.toString());
+// console.log(myDate.toDateString());
+// console.log(myDate.toJSON());
+// console.log(myDate.toLocaleDateString());
+// console.log(myDate.toLocaleString());
+// console.log(myDate.toTimeString());
+// console.log(myDate.toUTCString());
+
+
+let myCreatedDate = new Date(2023, 0, 2)
+
+console.log(myCreatedDate.toDateString());
